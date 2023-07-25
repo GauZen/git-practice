@@ -1,1 +1,3 @@
 Hello from Notepad
+
+New line added by Ali
